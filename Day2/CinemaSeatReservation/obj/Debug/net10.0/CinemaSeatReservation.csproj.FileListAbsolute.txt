@@ -1,0 +1,12 @@
+/Users/priscamasereli/Documents/SparcTr/C#DailyChallenge/Day2/CinemaSeatReservation/bin/Debug/net10.0/CinemaSeatReservation.deps.json
+/Users/priscamasereli/Documents/SparcTr/C#DailyChallenge/Day2/CinemaSeatReservation/bin/Debug/net10.0/CinemaSeatReservation.dll
+/Users/priscamasereli/Documents/SparcTr/C#DailyChallenge/Day2/CinemaSeatReservation/bin/Debug/net10.0/CinemaSeatReservation.pdb
+/Users/priscamasereli/Documents/SparcTr/C#DailyChallenge/Day2/CinemaSeatReservation/obj/Debug/net10.0/CinemaSeatReservation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/priscamasereli/Documents/SparcTr/C#DailyChallenge/Day2/CinemaSeatReservation/obj/Debug/net10.0/CinemaSeatReservation.AssemblyInfoInputs.cache
+/Users/priscamasereli/Documents/SparcTr/C#DailyChallenge/Day2/CinemaSeatReservation/obj/Debug/net10.0/CinemaSeatReservation.AssemblyInfo.cs
+/Users/priscamasereli/Documents/SparcTr/C#DailyChallenge/Day2/CinemaSeatReservation/obj/Debug/net10.0/CinemaSeatReservation.csproj.CoreCompileInputs.cache
+/Users/priscamasereli/Documents/SparcTr/C#DailyChallenge/Day2/CinemaSeatReservation/obj/Debug/net10.0/CinemaSeatReservation.sourcelink.json
+/Users/priscamasereli/Documents/SparcTr/C#DailyChallenge/Day2/CinemaSeatReservation/obj/Debug/net10.0/CinemaSeatReservation.dll
+/Users/priscamasereli/Documents/SparcTr/C#DailyChallenge/Day2/CinemaSeatReservation/obj/Debug/net10.0/refint/CinemaSeatReservation.dll
+/Users/priscamasereli/Documents/SparcTr/C#DailyChallenge/Day2/CinemaSeatReservation/obj/Debug/net10.0/CinemaSeatReservation.pdb
+/Users/priscamasereli/Documents/SparcTr/C#DailyChallenge/Day2/CinemaSeatReservation/obj/Debug/net10.0/ref/CinemaSeatReservation.dll
