@@ -1,0 +1,12 @@
+/Users/priscamasereli/Documents/SparcTr/C#DailyChallenge/Day 3/WordCounter/bin/Debug/net10.0/WordCounter.deps.json
+/Users/priscamasereli/Documents/SparcTr/C#DailyChallenge/Day 3/WordCounter/bin/Debug/net10.0/WordCounter.dll
+/Users/priscamasereli/Documents/SparcTr/C#DailyChallenge/Day 3/WordCounter/bin/Debug/net10.0/WordCounter.pdb
+/Users/priscamasereli/Documents/SparcTr/C#DailyChallenge/Day 3/WordCounter/obj/Debug/net10.0/WordCounter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/priscamasereli/Documents/SparcTr/C#DailyChallenge/Day 3/WordCounter/obj/Debug/net10.0/WordCounter.AssemblyInfoInputs.cache
+/Users/priscamasereli/Documents/SparcTr/C#DailyChallenge/Day 3/WordCounter/obj/Debug/net10.0/WordCounter.AssemblyInfo.cs
+/Users/priscamasereli/Documents/SparcTr/C#DailyChallenge/Day 3/WordCounter/obj/Debug/net10.0/WordCounter.csproj.CoreCompileInputs.cache
+/Users/priscamasereli/Documents/SparcTr/C#DailyChallenge/Day 3/WordCounter/obj/Debug/net10.0/WordCounter.sourcelink.json
+/Users/priscamasereli/Documents/SparcTr/C#DailyChallenge/Day 3/WordCounter/obj/Debug/net10.0/WordCounter.dll
+/Users/priscamasereli/Documents/SparcTr/C#DailyChallenge/Day 3/WordCounter/obj/Debug/net10.0/refint/WordCounter.dll
+/Users/priscamasereli/Documents/SparcTr/C#DailyChallenge/Day 3/WordCounter/obj/Debug/net10.0/WordCounter.pdb
+/Users/priscamasereli/Documents/SparcTr/C#DailyChallenge/Day 3/WordCounter/obj/Debug/net10.0/ref/WordCounter.dll
